@@ -1,2 +1,2 @@
 Hello! My name is Roxi, currently I am studying Electrical Engineering. I am willing to learn new things, so I want to start with manual testing and hopefully in the future I'll have more knowledge in this field.
-A search engine is a software that helps people to find informations on internet. Some exemples for search engines are: Google, Yahoo.
+A search engine is a software that helps people to find informations on internet. Some examples for search engines are: Google, Yahoo.
